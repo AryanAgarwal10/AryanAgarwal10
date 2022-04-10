@@ -8,7 +8,7 @@ Aryan, [07-04-2022 06:35 PM]
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Game Devlopment and Small Web App Development as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<!-- -<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -36,7 +36,7 @@ Aryan, [07-04-2022 06:35 PM]
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
+-->
 <br/>
 
 <a href="https://github.com/AryanAgarwal10">
