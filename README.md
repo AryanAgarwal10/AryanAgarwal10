@@ -1,4 +1,3 @@
-Aryan, [07-04-2022 06:35 PM]
 <h2> Hey there! I'm Aryan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
