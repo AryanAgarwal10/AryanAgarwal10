@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at AMC Engineering college, Bangalore.
 - 💼 &nbsp; Working as a Backend Developer at Pysphere.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Game Devlopment and Small Web App Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Small Web App Development as hobbies/side hustles.
 
 -<h3> 🛠 &nbsp;Tech Stack</h3>
 
